@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **React, Next, Typescript**
-
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **berkaykose.a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
